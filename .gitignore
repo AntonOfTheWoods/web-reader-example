@@ -1,0 +1,23 @@
+*.log
+.DS_Store
+node_modules
+.cache
+dist
+coverage
+
+.eslintcache
+.parcel-cache
+.cache
+
+storybook-static
+.vercel
+
+# env
+.env
+
+# the parcel built example app
+www
+
+# cypress
+cypress/screenshots
+cypress/videos
